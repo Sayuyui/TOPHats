@@ -234,6 +234,18 @@
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "テスト",
+            "author": "制作者名",
+            "condition": "None",
+            "resource": "front.png",
+            "backflipresource": "front_flip.png",
+            "backresource": "front.png",
+            "flipresource": "front_flip.png",
+            "climbresource": "climb.png",
+            "bounce": true,
+            "adaptive": true
         }
     ]
 }

@@ -234,18 +234,6 @@
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
             "adaptive": true
-        },
-        {
-            "name": "規制済み",
-            "author": "猫野和鯖",
-            "condition": "None",
-            "resource": "front.png",
-            "backflipresource": "front_flip.png",
-            "backresource": "front.png",
-            "flipresource": "front_flipの画像名.png",
-            "climbresource": "climb.png",
-            "bounce": true,
-            "adaptive": true
         }
     ]
 }
